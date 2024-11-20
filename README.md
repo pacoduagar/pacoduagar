@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Francisco José Duarry García  
 
 Welcome to my GitHub profile! I'm a passionate developer with a strong interest in:  
-- 🖥️ **JavaScript** and its ecosystem  
+- 🖥️ **JavaScript** and its ecosystem
+- 🔷 **TypeScript**  
 - 🚀 **Node.js**  
 - 🌐 **Vue.js**  
 - 🔒 **Cybersecurity**  
